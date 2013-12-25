@@ -1,0 +1,3 @@
+BASEDIR=$(dirname $0)
+echo $BASEDIR
+nodejs /home/abdullah/Dropbox/Documents/ongoing_projects/roundout_nodejs/node_modules/jasmine-node/lib/jasmine-node/cli.js specs
