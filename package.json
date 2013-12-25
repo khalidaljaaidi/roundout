@@ -3,7 +3,7 @@
     "description": "Here to change the travel industry",
     "main": "init.js",
     "repository": "",
-    "author": "Abdullah Khan, Khalid Al Jaidi",
+    "author": "Abdullah Khan, Khalid Al Jaidi.",
     "dependencies": {
         "express": "*",
         "jasmine-node": "*"
